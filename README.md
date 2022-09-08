@@ -9,7 +9,7 @@ The site allows GET/POST/PUT/PATCH/DELETE requests for two models: POST and COMM
 - only logged in users are able to add posts and comments
 - only appropriate posts' and comments' owners are able to modify the posts or comments
 - when deleting a post, all comments are deleted regardless of their owners
-- 
+
 ## Quick Start
 
 To get this project up and running locally on your computer:
